@@ -1,4 +1,4 @@
-# vuets
+# vue3.0 + TypeScript
 
 ## Project setup
 ```
